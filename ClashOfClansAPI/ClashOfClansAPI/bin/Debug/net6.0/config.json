@@ -1,0 +1,14 @@
+{
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ],
+
+  "ApiUri": "https://api.clashofclans.com/v1/",
+
+  "AuthorizationToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiIsImtpZCI6IjI4YTMxOGY3LTAwMDAtYTFlYi03ZmExLTJjNzQzM2M2Y2NhNSJ9.eyJpc3MiOiJzdXBlcmNlbGwiLCJhdWQiOiJzdXBlcmNlbGw6Z2FtZWFwaSIsImp0aSI6IjM1OTZkMDIzLTliYjItNDZlNS05N2IyLTk2NjljYWZmNTA5NyIsImlhdCI6MTY5NTQ4MzU4MCwic3ViIjoiZGV2ZWxvcGVyLzk1NDdlODllLTZhM2YtYTAyNi04MWIzLWVlOGZmNjBiYWEyOCIsInNjb3BlcyI6WyJjbGFzaCJdLCJsaW1pdHMiOlt7InRpZXIiOiJkZXZlbG9wZXIvc2lsdmVyIiwidHlwZSI6InRocm90dGxpbmcifSx7ImNpZHJzIjpbIjE1MS4zNi4yNDEuMzUiXSwidHlwZSI6ImNsaWVudCJ9XX0.phZlaZHumnWRdpRMUZWeHLDj6G_GbuBeYse-c9L38M89GFNLxNEK0Rwewe9mjQiStkRBzgtwzcw-M6rn_jQIPw"
+}

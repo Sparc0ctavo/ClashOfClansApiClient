@@ -1,0 +1,58 @@
+C:\Users\malya\source\repos\ClashOfClansAPI\ClashOfClansAPI\bin\Debug\net6.0\ClashOfClansAPI.exe
+C:\Users\malya\source\repos\ClashOfClansAPI\ClashOfClansAPI\bin\Debug\net6.0\ClashOfClansAPI.deps.json
+C:\Users\malya\source\repos\ClashOfClansAPI\ClashOfClansAPI\bin\Debug\net6.0\ClashOfClansAPI.runtimeconfig.json
+C:\Users\malya\source\repos\ClashOfClansAPI\ClashOfClansAPI\bin\Debug\net6.0\ClashOfClansAPI.dll
+C:\Users\malya\source\repos\ClashOfClansAPI\ClashOfClansAPI\bin\Debug\net6.0\ClashOfClansAPI.pdb
+C:\Users\malya\source\repos\ClashOfClansAPI\ClashOfClansAPI\obj\Debug\net6.0\ClashOfClansAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malya\source\repos\ClashOfClansAPI\ClashOfClansAPI\obj\Debug\net6.0\ClashOfClansAPI.AssemblyInfoInputs.cache
+C:\Users\malya\source\repos\ClashOfClansAPI\ClashOfClansAPI\obj\Debug\net6.0\ClashOfClansAPI.AssemblyInfo.cs
+C:\Users\malya\source\repos\ClashOfClansAPI\ClashOfClansAPI\obj\Debug\net6.0\ClashOfClansAPI.csproj.CoreCompileInputs.cache
+C:\Users\malya\source\repos\ClashOfClansAPI\ClashOfClansAPI\obj\Debug\net6.0\ClashOfClansAPI.dll
+C:\Users\malya\source\repos\ClashOfClansAPI\ClashOfClansAPI\obj\Debug\net6.0\refint\ClashOfClansAPI.dll
+C:\Users\malya\source\repos\ClashOfClansAPI\ClashOfClansAPI\obj\Debug\net6.0\ClashOfClansAPI.pdb
+C:\Users\malya\source\repos\ClashOfClansAPI\ClashOfClansAPI\obj\Debug\net6.0\ClashOfClansAPI.genruntimeconfig.cache
+C:\Users\malya\source\repos\ClashOfClansAPI\ClashOfClansAPI\obj\Debug\net6.0\ref\ClashOfClansAPI.dll
+C:\Users\malya\source\repos\ClashOfClansAPI\ClashOfClansAPI\bin\Debug\net6.0\config.json
+C:\Users\malya\source\repos\ClashOfClansAPI\ClashOfClansAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+C:\Users\malya\source\repos\ClashOfClansAPI\ClashOfClansAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\malya\source\repos\ClashOfClansAPI\ClashOfClansAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\malya\source\repos\ClashOfClansAPI\ClashOfClansAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\malya\source\repos\ClashOfClansAPI\ClashOfClansAPI\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\malya\source\repos\ClashOfClansAPI\ClashOfClansAPI\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\malya\source\repos\ClashOfClansAPI\ClashOfClansAPI\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\malya\source\repos\ClashOfClansAPI\ClashOfClansAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\malya\source\repos\ClashOfClansAPI\ClashOfClansAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\malya\source\repos\ClashOfClansAPI\ClashOfClansAPI\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\malya\source\repos\ClashOfClansAPI\ClashOfClansAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\malya\source\repos\ClashOfClansAPI\ClashOfClansAPI\obj\Debug\net6.0\ClashOfClansAPI.csproj.AssemblyReference.cache
+C:\Users\malya\source\repos\ClashOfClansAPI\ClashOfClansAPI\obj\Debug\net6.0\ClashOfClansAPI.csproj.CopyComplete
+C:\Users\malya\source\repos\ClashOfClansAPI\ClashOfClansAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\GitHub Repos\ClashOfClansApiClient\ClashOfClansAPI\ClashOfClansAPI\bin\Debug\net6.0\ClashOfClansAPI.exe
+D:\GitHub Repos\ClashOfClansApiClient\ClashOfClansAPI\ClashOfClansAPI\bin\Debug\net6.0\config.json
+D:\GitHub Repos\ClashOfClansApiClient\ClashOfClansAPI\ClashOfClansAPI\bin\Debug\net6.0\ClashOfClansAPI.deps.json
+D:\GitHub Repos\ClashOfClansApiClient\ClashOfClansAPI\ClashOfClansAPI\bin\Debug\net6.0\ClashOfClansAPI.runtimeconfig.json
+D:\GitHub Repos\ClashOfClansApiClient\ClashOfClansAPI\ClashOfClansAPI\bin\Debug\net6.0\ClashOfClansAPI.dll
+D:\GitHub Repos\ClashOfClansApiClient\ClashOfClansAPI\ClashOfClansAPI\bin\Debug\net6.0\ClashOfClansAPI.pdb
+D:\GitHub Repos\ClashOfClansApiClient\ClashOfClansAPI\ClashOfClansAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.dll
+D:\GitHub Repos\ClashOfClansApiClient\ClashOfClansAPI\ClashOfClansAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\GitHub Repos\ClashOfClansApiClient\ClashOfClansAPI\ClashOfClansAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\GitHub Repos\ClashOfClansApiClient\ClashOfClansAPI\ClashOfClansAPI\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Json.dll
+D:\GitHub Repos\ClashOfClansApiClient\ClashOfClansAPI\ClashOfClansAPI\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\GitHub Repos\ClashOfClansApiClient\ClashOfClansAPI\ClashOfClansAPI\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\GitHub Repos\ClashOfClansApiClient\ClashOfClansAPI\ClashOfClansAPI\bin\Debug\net6.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\GitHub Repos\ClashOfClansApiClient\ClashOfClansAPI\ClashOfClansAPI\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\GitHub Repos\ClashOfClansApiClient\ClashOfClansAPI\ClashOfClansAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\GitHub Repos\ClashOfClansApiClient\ClashOfClansAPI\ClashOfClansAPI\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\GitHub Repos\ClashOfClansApiClient\ClashOfClansAPI\ClashOfClansAPI\bin\Debug\net6.0\System.Text.Json.dll
+D:\GitHub Repos\ClashOfClansApiClient\ClashOfClansAPI\ClashOfClansAPI\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\GitHub Repos\ClashOfClansApiClient\ClashOfClansAPI\ClashOfClansAPI\obj\Debug\net6.0\ClashOfClansAPI.csproj.AssemblyReference.cache
+D:\GitHub Repos\ClashOfClansApiClient\ClashOfClansAPI\ClashOfClansAPI\obj\Debug\net6.0\ClashOfClansAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Repos\ClashOfClansApiClient\ClashOfClansAPI\ClashOfClansAPI\obj\Debug\net6.0\ClashOfClansAPI.AssemblyInfoInputs.cache
+D:\GitHub Repos\ClashOfClansApiClient\ClashOfClansAPI\ClashOfClansAPI\obj\Debug\net6.0\ClashOfClansAPI.AssemblyInfo.cs
+D:\GitHub Repos\ClashOfClansApiClient\ClashOfClansAPI\ClashOfClansAPI\obj\Debug\net6.0\ClashOfClansAPI.csproj.CoreCompileInputs.cache
+D:\GitHub Repos\ClashOfClansApiClient\ClashOfClansAPI\ClashOfClansAPI\obj\Debug\net6.0\ClashOfClansAPI.csproj.CopyComplete
+D:\GitHub Repos\ClashOfClansApiClient\ClashOfClansAPI\ClashOfClansAPI\obj\Debug\net6.0\ClashOfClansAPI.dll
+D:\GitHub Repos\ClashOfClansApiClient\ClashOfClansAPI\ClashOfClansAPI\obj\Debug\net6.0\refint\ClashOfClansAPI.dll
+D:\GitHub Repos\ClashOfClansApiClient\ClashOfClansAPI\ClashOfClansAPI\obj\Debug\net6.0\ClashOfClansAPI.pdb
+D:\GitHub Repos\ClashOfClansApiClient\ClashOfClansAPI\ClashOfClansAPI\obj\Debug\net6.0\ClashOfClansAPI.genruntimeconfig.cache
+D:\GitHub Repos\ClashOfClansApiClient\ClashOfClansAPI\ClashOfClansAPI\obj\Debug\net6.0\ref\ClashOfClansAPI.dll
